@@ -1,0 +1,97 @@
+Item,Ellipsis Type,Ellipsis,Voice,New item,Original items (for reference)
+1,gapping,elliptical,active,"Mary scolded Wilma, and Susan, Nancy. ","Mary was scolded by her father, and then her mother did too."
+,,elliptical,passive,"Wilma was scolded by Mary, and Nancy, by Susan.","Mary’s father scolded her, and then her sister was too."
+,,non-elliptical,active,"Mary scolded Wilma, and Susan scolded Nancy.","Mary’s father scolded her, and then her mother did too."
+,,non-elliptical,passive,"Wilma was scolded by Mary, and Nancy was scolded by Susan.","Mary was scolded by her father, and then her sister was too."
+2,sluicing,elliptical,active,"Someone read the report, but I don't know who.","The report was first read by the judge, and then the lawyer did too."
+,,elliptical,passive,"The report was read by someone, but I don't know by whom.","The judge read the report first, and then the confession was too."
+,,non-elliptical,active,"Someone read the report, but I don't know who read it.","The judge read the report first, and then the lawyer did too."
+,,non-elliptical,passive,"The report was read by someone, but I don't know by whom it was read.","The report was first read by the judge, and then the confession was too."
+3,gapping,elliptical,active,"The Mayor praised the fireman, and the City Councilman, the policeman. ","The fireman was first praised by the Mayor, and today the President did too."
+,,elliptical,passive,"The fireman was praised by the Mayor, and the policeman, by the City Councilman.  ","The Mayor first praised the fireman, and then the policeman was too."
+,,non-elliptical,active,"The Mayor praised the fireman, and the City Councilman praised the policeman.","The Mayor first praised the fireman, and today the President did too."
+,,non-elliptical,passive,"The fireman was praised by the Mayor, and the policeman was praised by the City Councilman.","The fireman was first praised by the Mayor, and then the policeman was too."
+4,sluicing,elliptical,active,"Someone hugged the game show contestant, but I don't know who.  ","The winner was hugged by the talk-show host, and the announcer did too."
+,,elliptical,passive,"The game show contestant was hugged by someone, but I don't know by whom.","The talk-show host hugged the winner, and the loser was too."
+,,non-elliptical,active,"Someone hugged the game show contestant, but I don't know who hugged him.","The talk-show host hugged the winner, and the announcer did too."
+,,non-elliptical,passive,"The game show contestant was hugged by someone, but I don't know by whom he was hugged. ","The winner was hugged by the talk-show host, and the loser was too."
+5,gapping,elliptical,active,"The principal complemented the teacher, and the guidance counselor, the student.  ","The student was praised by the old schoolmaster, and the advisor did too."
+,,elliptical,passive,"The teacher was complemented by the principal, and the student, by the guidance counselor. ","The old schoolmaster praised the student, and the Teaching Assistant was too."
+,,non-elliptical,active,"The principal complemented the teacher, and the guidance counselor complemented the student.","The old schoolmaster praised the student, and the advisor did too."
+,,non-elliptical,passive,"The teacher was complemented by the principal, and the student was complemented by the guidance counselor.","The student was praised by the old schoolmaster, and the Teaching Assistant was too."
+6,sluicing,elliptical,active,"Someone taught French classes this quarter, but I don't know who. ","Mary was given French classes by her French grandmother, and her French aunt did too."
+,,elliptical,passive,"French classes were taught by someone this quarter, but I don't know by whom. ","Mary’s French grandmother gave her French classes, and her sister was too."
+,,non-elliptical,active,"Someone taught French classes this quarter, but I don't know who taught them.","Mary’s French grandmother gave her French classes, and her French aunt did too."
+,,non-elliptical,passive,"French classes were taught by someone this quarter, but I don't know by whom they were taught.","Mary was given French classes by her French grandmother, and her sister was too."
+7,gapping,elliptical,active,"John offended Bill, and Fred, George.  ","Susan was offered a loan by the bank, and the credit union did too."
+,,elliptical,passive,"Bill was offended by John, and George, by Fred. ","Susan’s bank offered her a loan, and her sisters were too."
+,,non-elliptical,active,"John offended Bill, and Fred offended George.","Susan’s bank offered her a loan, and the credit union did too."
+,,non-elliptical,passive,"Bill was offended by John, and George was offended by Fred.","Susan was offered a loan by the bank, and her sisters were too."
+8,sluicing,elliptical,active,"Someone asked the witness a question, but I don't know who.  ","The witness was surprised by the policeman’s question, and the lawyer did too."
+,,elliptical,passive,"The witness was asked a question by someone, but I don't know by whom. ","The policeman’s question surprised the witness, and the accused was too."
+,,non-elliptical,active,"Someone asked the witness a question, but I don't know who asked him a question. ","The policeman’s question surprised the witness, and the lawyer did too."
+,,non-elliptical,passive,"The witness was asked a question by someone, but I don't know by whom he was asked a question.","The witness was surprised by the policeman’s question, and the accused was too."
+9,gapping,elliptical,active,"The car manufacturer exploited the auto workers, and the steel factory, the metal workers. ","The autoworkers were exploited by the local business, and the big corporations did too."
+,,elliptical,passive,"The auto workers were exploited by the car manufacturer, and the metal workers, by the steel factory. ","The local business exploited the autoworkers, and the metal workers were too."
+,,non-elliptical,active,"The car manufacturer exploited the auto workers, and the steel factory exploited the metal workers.","The local business exploited the autoworkers, and the big corporations did too."
+,,non-elliptical,passive,"The auto workers were exploited by the car manufacturer, and the metal workers were exploited by the steel factory.","The autoworkers were exploited by the local business, and the metal workers were too."
+10,sluicing,elliptical,active,"Someone interviewed the Senator, but I don't know who.  ","The Mayor was interviewed by the newspapers, and the TV networks did too."
+,,elliptical,passive,"The Senator was interviewed by someone, but I don't know by whom.  ","The newspaper interviewed the Mayor, and the Chief of Police was too."
+,,non-elliptical,active,"Someone interviewed the Senator, but I don't know who interviewed her. ","The newspaper interviewed the Mayor, and the TV networks did too."
+,,non-elliptical,passive,"The Senator was interviewed by someone, but I don't know by whom she was interviewed.","The Mayor was interviewed by the newspapers, and the Chief of Police was too."
+11,gapping,elliptical,active,"The police questioned the suspect, and the lawyer, the accusor.  ","The suspect was questioned by the police, and the lawyer did too."
+,,elliptical,passive,"The suspect was questioned by the police, and the accusor, by the lawyer.  ","The police questioned the suspect, and the witness was too."
+,,non-elliptical,active,"The police questioned the suspect, and the lawyer questioned the accusor.","The police questioned the suspect, and the lawyer did too."
+,,non-elliptical,passive,"The suspect was questioned by the police, and the accusor was questioned by the lawyer.","The suspect was questioned by the police, and the witness was too."
+12,sluicing,elliptical,active,"Someone blamed the doctor, but no one knows who. ","The doctor was blamed by the child’s parents, and the insurance company did too."
+,,elliptical,passive,"The doctor was blamed by someone, but no one knows by whom. ","The child’s parents blamed the doctor, and the head nurse was too."
+,,non-elliptical,active,"Someone blamed the doctor, but no one knows who blamed him.","The child’s parents blamed the doctor, and the insurance company did too."
+,,non-elliptical,passive,"The doctor was blamed by someone, but no one knows by whom he was blamed.  ","The doctor was blamed by the child’s parents, and the head nurse was too."
+13,gapping,elliptical,active,"Norm pushed the employee, and George, the manager. ",The new girl was pushed again by Bill after John did already.
+,,elliptical,passive,"The employee was pushed by Norm, and the manager, by George. ",Bill pushed the new girl again after Jill was already.
+,,non-elliptical,active,"Norm pushed the employee, and George pushed the manager.",Bill pushed the new girl again after John did already.
+,,non-elliptical,passive,"The employee was pushed by Norm, and the manager was pushed by George.",The new girl was pushed again by Bill after Jill was already.
+14,sluicing,elliptical,active,"Someone interrogated the student, but the faculty aren't sure who.  ",The student was questioned by Customs after Immigration did previously.
+,,elliptical,passive,"The student was interrtogated by someone, but the faculty aren't sure by whom. ",Customs questioned the student after his friend was previously.
+,,non-elliptical,active,"Someone interrogated the student, but the faculty aren't sure who interrogated her. ",Customs questioned the student after Immigration did previously.
+,,non-elliptical,passive,"The student was interrogated by someone, but the faculty aren't sure by whom she was interrogated. ",The student was questioned by Customs after his friend was previously.
+15,gapping,elliptical,active,"The police investigated the accountant, and the IRS, the politician. ",The accountant was investigated by the IRS on Tuesday after the police did on Monday.
+,,elliptical,passive,"The accountant was investigated by the police, and the politician, by the IRS.  ",The IRS investigated the accountant on Tuesday after the CEO was on Monday.
+,,non-elliptical,active,"The police investigated the accountant, and the IRS investigated the politician.",The IRS investigated the accountant on Tuesday after the police did on Monday.
+,,non-elliptical,passive,"The accountant was investigated by the police, and the politician was investigated by the IRS.",The accountant was investigated by the IRS on Tuesday after the CEO was on Monday.
+16,sluicing,elliptical,active,"Someone beat Federer today, but I don't know who. ",The volleyball team was beaten by the Cubans after the Germans did previously.
+,,elliptical,passive,"Federer was beaten by someone today, but I don't know by whom. ",The Cubans beat the volleyball team after the tennis team was previously.
+,,non-elliptical,active,"Someone beat Federer today, but I don't know who beat him. ",The Cubans beat the volleyball team after the Germans did previously.
+,,non-elliptical,passive,"Federer was beaten by someone today, but I don't know by whom he was beaten. ",The volleyball team was beaten by the Cubans after the tennis team was previously.
+17,gapping,elliptical,active,"The lead singer criticized the guitarist, and the drummer, the bassist. ",The guitarist was booed by the audience after the club owner himself did earlier.
+,,elliptical,passive,"The guitarist was criticized by the lead singer, and the bassist, by the drummer. ",The audience booed the guitarist after the lead singer herself was earlier.
+,,non-elliptical,active,"The lead singer criticized the guitarist, and the drummer criticized the bassist.",The audience booed the guitarist after the club owner himself did earlier.
+,,non-elliptical,passive,"The guitarist was criticized by the lead singer, and the bassist was criticized by the drummer.",The guitarist was booed by the audience after the lead singer herself was earlier.
+18,sluicing,elliptical,active,"Someone sold the painting at a recent auction, but I don't know who. ",The table was criticized by the seller after the buyer did already.
+,,elliptical,passive,"The painting was sold by someone at a recent auction, but I don't know by whom. ",The seller criticized the table after the chairs were already.
+,,non-elliptical,active,"Someone sold the painting at a recent auction, but I don't know who sold it.",The seller criticized the table after the buyer did already.
+,,non-elliptical,passive,"The painting was sold by someone at a recent auction, but I don't know by whom it was sold.",The table was criticized by the seller after the chairs were already.
+19,gapping,elliptical,active,"The congressman congratulated the policemen, and the governor, the medical workers.  ",The dessert was praised by the customer after the critic did already.
+,,elliptical,passive,"The policemen were congratulated by the congressman, and the medical workers, by the governor.",The customer praised the dessert after the appetizer was already.
+,,non-elliptical,active,"The congressman congratulated the policemen, and the governor congratulated the medical workers.",The customer praised the dessert after the critic did already.
+,,non-elliptical,passive,"The policemen were congratulated by the congressman, and the medical workers were congratulated by the mayor.",The dessert was praised by the customer after the appetizer was already.
+20,sluicing,elliptical,active,"Someone videotaped the concert, but no one knows who. ",The house was photographed by Jill after Sally did previously.
+,,elliptical,passive,"The concert was videotaped by someone, but no one knows by whom. ",Jill photographed the house after the garage was previously.
+,,non-elliptical,active,"Someone videotaped the concert, but no one knows who videotaped it.",Jill photographed the house after Sally did previously.
+,,non-elliptical,passive,"The concert was videotaped by someone, but no one knows by whom it was videotaped.",The house was photographed by Jill after the garage was previously.
+21,gapping,elliptical,active,"Phelps broke the 400 meter record, and Lochte, the 800 meter record.  ",The 400 meter record was broken by Phelps after Thorpe did previously.
+,,elliptical,passive,"The 400 meter record was broken by Phelps, and the 800 meter record, by Lochte.",Phelps broke the 400 meter record after the 200 meter one was previously.
+,,non-elliptical,active,"Phelps broke the 400 meter record, and Lochte broke the 800 meter record.",Phelps broke the 400 meter record after Thorpe did previously.
+,,non-elliptical,passive,"The 400 meter record was broken by Phelps, and the 800 meter record was broken by Lochte.",The 400 meter record was broken by Phelps after the 200 meter one was previously.
+22,sluicing,elliptical,active,"Someone revealed the secret recipe, but I don't know who.  ",The secret recipe was revealed by Kate after Sandra did already.
+,,elliptical,passive,"The secret recipe was revealed by someone, but I don't know by whom. ",Kate revealed the secret recipe after the chef’s private notes were already.
+,,non-elliptical,active,"Someone revealed the secret recipe, but I don't know who revealed it. ",Kate revealed the secret recipe after Sandra did already.
+,,non-elliptical,passive,"The secret recipe was revealed by someone, but I don't know by whom it was revealed.",The secret recipe was revealed by Kate after the chef’s private notes were already.
+23,gapping,elliptical,active,"The department called the local sheriff, and the adminstration, the FBI. ",The library was called by the department head after the department secretary did previously.
+,,elliptical,passive,"The local sheriff was called by the department, and the FBI, by the administration. ",The department head called the library after the records office was previously.
+,,non-elliptical,active,"The department called the local sheriff, and the adminstration called the FBI.",The department head called the library after the department secretary did previously.
+,,non-elliptical,passive,"The local sheriff was called by the department, and the FBI was called by the administration.",The library was called by the department head after the records office was previously.
+24,sluicing ,elliptical,active,"Someome chastised the manager at the meeting, but I don't know who.",The local writers were criticized by Tom after the professor did already.
+,,elliptical,passive,"The manager was chastised by someone at the meeting, but I don't know by whom.",Tom criticized the local writers after the local paper was already.
+,,non-elliptical,active,"Someome chastised the manager at the meeting, but I don't know who chastised the manager.",Tom criticized the local writers after the professor did already.
+,,non-elliptical,passive,"The manager was chastised by someone at the meeting, but I don't know by whom she was chastised. ",The local writers were criticized by Tom after the local paper was already.

@@ -1,0 +1,97 @@
+Item,Variant,Clause 1,Clause 2,Sentence
+1,[P → A],Mary was scolded by her father,and then her mother did too,"Mary was scolded by her father, and then her mother did too."
+,[A → P],Mary’s father scolded her,and then her sister was too,"Mary’s father scolded her, and then her sister was too."
+,[A → A],Mary’s father scolded her,and then her mother did too,"Mary’s father scolded her, and then her mother did too."
+,[P → P],Mary was scolded by her father,and then her sister was too,"Mary was scolded by her father, and then her sister was too."
+2,[P → A],The report was first read by the judge,and then the lawyer did too,"The report was first read by the judge, and then the lawyer did too."
+,[A → P],The judge read the report first,and then the confession was too,"The judge read the report first, and then the confession was too."
+,[A → A],The judge read the report first,and then the lawyer did too,"The judge read the report first, and then the lawyer did too."
+,[P → P],The report was first read by the judge,and then the confession was too,"The report was first read by the judge, and then the confession was too."
+3,[P → A],The fireman was first praised by the Mayor,and today the President did too,"The fireman was first praised by the Mayor, and today the President did too."
+,[A → P],The Mayor first praised the fireman,and then the policeman was too,"The Mayor first praised the fireman, and then the policeman was too."
+,[A → A],The Mayor first praised the fireman,and today the President did too,"The Mayor first praised the fireman, and today the President did too."
+,[P → P],The fireman was first praised by the Mayor,and then the policeman was too,"The fireman was first praised by the Mayor, and then the policeman was too."
+4,[P → A],The winner was hugged by the talk-show host,and the announcer did too,"The winner was hugged by the talk-show host, and the announcer did too."
+,[A → P],The talk-show host hugged the winner,and the loser was too,"The talk-show host hugged the winner, and the loser was too."
+,[A → A],The talk-show host hugged the winner,and the announcer did too,"The talk-show host hugged the winner, and the announcer did too."
+,[P → P],The winner was hugged by the talk-show host,and the loser was too,"The winner was hugged by the talk-show host, and the loser was too."
+5,[P → A],The student was praised by the old schoolmaster,and the advisor did too,"The student was praised by the old schoolmaster, and the advisor did too."
+,[A → P],The old schoolmaster praised the student,and the Teaching Assistant was too,"The old schoolmaster praised the student, and the Teaching Assistant was too."
+,[A → A],The old schoolmaster praised the student,and the advisor did too,"The old schoolmaster praised the student, and the advisor did too."
+,[P → P],The student was praised by the old schoolmaster,and the Teaching Assistant was too,"The student was praised by the old schoolmaster, and the Teaching Assistant was too."
+6,[P → A],Mary was given French classes by her French grandmother,and her French aunt did too,"Mary was given French classes by her French grandmother, and her French aunt did too."
+,[A → P],Mary’s French grandmother gave her French classes,and her sister was too,"Mary’s French grandmother gave her French classes, and her sister was too."
+,[A → A],Mary’s French grandmother gave her French classes,and her French aunt did too,"Mary’s French grandmother gave her French classes, and her French aunt did too."
+,[P → P],Mary was given French classes by her French grandmother,and her sister was too,"Mary was given French classes by her French grandmother, and her sister was too."
+7,[P → A],Susan was offered a loan by the bank,and the credit union did too,"Susan was offered a loan by the bank, and the credit union did too."
+,[A → P],Susan’s bank offered her a loan,and her sisters were too,"Susan’s bank offered her a loan, and her sisters were too."
+,[A → A],Susan’s bank offered her a loan,and the credit union did too,"Susan’s bank offered her a loan, and the credit union did too."
+,[P → P],Susan was offered a loan by the bank,and her sisters were too,"Susan was offered a loan by the bank, and her sisters were too."
+8,[P → A],The witness was surprised by the policeman’s question,and the lawyer did too,"The witness was surprised by the policeman’s question, and the lawyer did too."
+,[A → P],The policeman’s question surprised the witness,and the accused was too,"The policeman’s question surprised the witness, and the accused was too."
+,[A → A],The policeman’s question surprised the witness,and the lawyer did too,"The policeman’s question surprised the witness, and the lawyer did too."
+,[P → P],The witness was surprised by the policeman’s question,and the accused was too,"The witness was surprised by the policeman’s question, and the accused was too."
+9,[P → A],The autoworkers were exploited by the local business,and the big corporations did too,"The autoworkers were exploited by the local business, and the big corporations did too."
+,[A → P],The local business exploited the autoworkers,and the metal workers were too,"The local business exploited the autoworkers, and the metal workers were too."
+,[A → A],The local business exploited the autoworkers,and the big corporations did too,"The local business exploited the autoworkers, and the big corporations did too."
+,[P → P],The autoworkers were exploited by the local business,and the metal workers were too,"The autoworkers were exploited by the local business, and the metal workers were too."
+10,[P → A],The Mayor was interviewed by the newspapers,and the TV networks did too,"The Mayor was interviewed by the newspapers, and the TV networks did too."
+,[A → P],The newspaper interviewed the Mayor,and the Chief of Police was too,"The newspaper interviewed the Mayor, and the Chief of Police was too."
+,[A → A],The newspaper interviewed the Mayor,and the TV networks did too,"The newspaper interviewed the Mayor, and the TV networks did too."
+,[P → P],The Mayor was interviewed by the newspapers,and the Chief of Police was too,"The Mayor was interviewed by the newspapers, and the Chief of Police was too."
+11,[P → A],The suspect was questioned by the police,and the lawyer did too,"The suspect was questioned by the police, and the lawyer did too."
+,[A → P],The police questioned the suspect,and the witness was too,"The police questioned the suspect, and the witness was too."
+,[A → A],The police questioned the suspect,and the lawyer did too,"The police questioned the suspect, and the lawyer did too."
+,[P → P],The suspect was questioned by the police,and the witness was too,"The suspect was questioned by the police, and the witness was too."
+12,[P → A],The doctor was blamed by the child’s parents,and the insurance company did too,"The doctor was blamed by the child’s parents, and the insurance company did too."
+,[A → P],The child’s parents blamed the doctor,and the head nurse was too,"The child’s parents blamed the doctor, and the head nurse was too."
+,[A → A],The child’s parents blamed the doctor,and the insurance company did too,"The child’s parents blamed the doctor, and the insurance company did too."
+,[P → P],The doctor was blamed by the child’s parents,and the head nurse was too,"The doctor was blamed by the child’s parents, and the head nurse was too."
+13,[P → A],The new girl was pushed again by Bill,after John did already,The new girl was pushed again by Bill after John did already.
+,[A → P],Bill pushed the new girl again,after Jill was already,Bill pushed the new girl again after Jill was already.
+,[A → A],Bill pushed the new girl again,after John did already,Bill pushed the new girl again after John did already.
+,[P → P],The new girl was pushed again by Bill,after Jill was already,The new girl was pushed again by Bill after Jill was already.
+14,[P → A],The student was questioned by Customs,after Immigration did previously,The student was questioned by Customs after Immigration did previously.
+,[A → P],Customs questioned the student,after his friend was previously,Customs questioned the student after his friend was previously.
+,[A → A],Customs questioned the student,after Immigration did previously,Customs questioned the student after Immigration did previously.
+,[P → P],The student was questioned by Customs,after his friend was previously,The student was questioned by Customs after his friend was previously.
+15,[P → A],The accountant was investigated by the IRS on Tuesday,after the police did on Monday,The accountant was investigated by the IRS on Tuesday after the police did on Monday.
+,[A → P],The IRS investigated the accountant on Tuesday,after the CEO was on Monday,The IRS investigated the accountant on Tuesday after the CEO was on Monday.
+,[A → A],The IRS investigated the accountant on Tuesday,after the police did on Monday,The IRS investigated the accountant on Tuesday after the police did on Monday.
+,[P → P],The accountant was investigated by the IRS on Tuesday,after the CEO was on Monday,The accountant was investigated by the IRS on Tuesday after the CEO was on Monday.
+16,[P → A],The volleyball team was beaten by the Cubans,after the Germans did previously,The volleyball team was beaten by the Cubans after the Germans did previously.
+,[A → P],The Cubans beat the volleyball team,after the tennis team was previously,The Cubans beat the volleyball team after the tennis team was previously.
+,[A → A],The Cubans beat the volleyball team,after the Germans did previously,The Cubans beat the volleyball team after the Germans did previously.
+,[P → P],The volleyball team was beaten by the Cubans,after the tennis team was previously,The volleyball team was beaten by the Cubans after the tennis team was previously.
+17,[P → A],The guitarist was booed by the audience,after the club owner himself did earlier,The guitarist was booed by the audience after the club owner himself did earlier.
+,[A → P],The audience booed the guitarist,after the lead singer herself was earlier,The audience booed the guitarist after the lead singer herself was earlier.
+,[A → A],The audience booed the guitarist,after the club owner himself did earlier,The audience booed the guitarist after the club owner himself did earlier.
+,[P → P],The guitarist was booed by the audience,after the lead singer herself was earlier,The guitarist was booed by the audience after the lead singer herself was earlier.
+18,[P → A],The table was criticized by the seller,after the buyer did already,The table was criticized by the seller after the buyer did already.
+,[A → P],The seller criticized the table,after the chairs were already,The seller criticized the table after the chairs were already.
+,[A → A],The seller criticized the table,after the buyer did already,The seller criticized the table after the buyer did already.
+,[P → P],The table was criticized by the seller,after the chairs were already,The table was criticized by the seller after the chairs were already.
+19,[P → A],The dessert was praised by the customer,after the critic did already,The dessert was praised by the customer after the critic did already.
+,[A → P],The customer praised the dessert,after the appetizer was already,The customer praised the dessert after the appetizer was already.
+,[A → A],The customer praised the dessert,after the critic did already,The customer praised the dessert after the critic did already.
+,[P → P],The dessert was praised by the customer,after the appetizer was already,The dessert was praised by the customer after the appetizer was already.
+20,[P → A],The house was photographed by Jill,after Sally did previously,The house was photographed by Jill after Sally did previously.
+,[A → P],Jill photographed the house,after the garage was previously,Jill photographed the house after the garage was previously.
+,[A → A],Jill photographed the house,after Sally did previously,Jill photographed the house after Sally did previously.
+,[P → P],The house was photographed by Jill,after the garage was previously,The house was photographed by Jill after the garage was previously.
+21,[P → A],The 400 meter record was broken by Phelps,after Thorpe did previously,The 400 meter record was broken by Phelps after Thorpe did previously.
+,[A → P],Phelps broke the 400 meter record,after the 200 meter one was previously,Phelps broke the 400 meter record after the 200 meter one was previously.
+,[A → A],Phelps broke the 400 meter record,after Thorpe did previously,Phelps broke the 400 meter record after Thorpe did previously.
+,[P → P],The 400 meter record was broken by Phelps,after the 200 meter one was previously,The 400 meter record was broken by Phelps after the 200 meter one was previously.
+22,[P → A],The secret recipe was revealed by Kate,after Sandra did already,The secret recipe was revealed by Kate after Sandra did already.
+,[A → P],Kate revealed the secret recipe,after the chef’s private notes were already,Kate revealed the secret recipe after the chef’s private notes were already.
+,[A → A],Kate revealed the secret recipe,after Sandra did already,Kate revealed the secret recipe after Sandra did already.
+,[P → P],The secret recipe was revealed by Kate,after the chef’s private notes were already,The secret recipe was revealed by Kate after the chef’s private notes were already.
+23,[P → A],The library was called by the department head,after the department secretary did previously,The library was called by the department head after the department secretary did previously.
+,[A → P],The department head called the library,after the records office was previously,The department head called the library after the records office was previously.
+,[A → A],The department head called the library,after the department secretary did previously,The department head called the library after the department secretary did previously.
+,[P → P],The library was called by the department head,after the records office was previously,The library was called by the department head after the records office was previously.
+24,[P → A],The local writers were criticized by Tom,after the professor did already,The local writers were criticized by Tom after the professor did already.
+,[A → P],Tom criticized the local writers,after the local paper was already,Tom criticized the local writers after the local paper was already.
+,[A → A],Tom criticized the local writers,after the professor did already,Tom criticized the local writers after the professor did already.
+,[P → P],The local writers were criticized by Tom,after the local paper was already,The local writers were criticized by Tom after the local paper was already.
